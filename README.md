@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![QVAQEL Banner](https://raw.githubusercontent.com/qvaqel/qvaqel/main/screenshots/banner.png)
+![QVAQEL Banner](https://github.com/fluxreaner-cpu/qvaqel/blob/main/screanshot/banner.png)
 
 **All-in-One Security Toolkit — Windows | Linux | macOS | Termux**
 
