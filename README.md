@@ -24,21 +24,6 @@
 
 ---
 
-## 📸 Скриншоты
-
-<div align="center">
-
-![Main Menu](https://raw.githubusercontent.com/qvaqel/qvaqel/main/screenshots/main_menu.png)
-
-*Главное меню QVAQEL — 40 категорий в компактном интерфейсе*
-
-![Submenu](https://raw.githubusercontent.com/qvaqel/qvaqel/main/screenshots/submenu.png)
-
-*Подменю категории с инструментами*
-
-</div>
-
----
 
 ## 🚀 Возможности (40 категорий)
 
